@@ -1,3 +1,0 @@
-This file is created from remote.
-Now this file is edited from local.
-
