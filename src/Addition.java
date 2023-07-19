@@ -1,6 +1,6 @@
 public class Addition {
     public static void main(String[] args){
-        int a = 5;
+        int a = 2;
         int b = 8;
         int sum = a + b;
 

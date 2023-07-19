@@ -2,6 +2,10 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Git_Group_Assignments" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Git_Group_Assignments/Git_Group_Assignments" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java_june_2023" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java_june_2023/AssignmentGit" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src" vcs="Git" />
   </component>
 </project>
