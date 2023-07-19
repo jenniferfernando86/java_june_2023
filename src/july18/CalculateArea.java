@@ -4,7 +4,6 @@ public class CalculateArea {
 
     static double pi = 3.14;
     double radius = 12;
-
     //method here to calculate area
 
     /*public CalculateArea() {
