@@ -42,7 +42,6 @@ public class AssignmentGreatestNumber {
             int second_number = scanner.nextInt();
             System.out.print("Enter your third number : ");
             int third_number = scanner.nextInt();
-<<<<<<< HEAD
 
             if (first_number > second_number && first_number > third_number)
             {
@@ -62,26 +61,6 @@ public class AssignmentGreatestNumber {
 
         }
         System.out.println("Thankyou for using this program");
-=======
->>>>>>> da353e021f899a13094d2b9fd281421b089fc279
 
-            if (first_number > second_number && first_number > third_number)
-            {
-                System.out.println( first_number +  " is greater than " + second_number + " & " + third_number);
-            }else if (second_number > third_number) {
-                System.out.println(second_number + " is greater than " + first_number + " & " + third_number);
-            }
-            else{
-                System.out.println(third_number + " is greater than " + first_number + " & " + second_number);
-            }
-            System.out.println("Are you ready to exit");
-            System.out.print("Press 1 to continue or any other number to exit : ");
-            input = scanner.nextInt();
-            if (input == 1) {
-                i = -1;
-            }
-
-        }
-        System.out.println("Thankyou for using this program");
     }
 }

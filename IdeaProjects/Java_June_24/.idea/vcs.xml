@@ -3,9 +3,12 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Git_Group_Assignments" vcs="Git" />
+<<<<<<< HEAD:.idea/vcs.xml
     <mapping directory="$PROJECT_DIR$/Git_Group_Assignments/Git_Group_Assignments" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/java_june_2023" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/java_june_2023/AssignmentGit" vcs="Git" />
+=======
+>>>>>>> da353e021f899a13094d2b9fd281421b089fc279:IdeaProjects/Java_June_24/.idea/vcs.xml
     <mapping directory="$PROJECT_DIR$/src" vcs="Git" />
   </component>
 </project>
